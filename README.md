@@ -71,3 +71,8 @@ Inorder function prints data in Inorder sequence LVR (Depth first traversal). It
 ### Readfile function:
 Readfile function reads data from a text file(English Dictionary) and insert them in the AVL tree.then closes the file and prints the height of tree after insertion. Scans a sentence from user and uses strtok to break string into series of tokens. A for loop was made on the length of the sentence to handle upper and lower cases.
 ## Test cases
+<img width="566" alt="Screen Shot 2021-05-13 at 5 38 05 AM" src="https://user-images.githubusercontent.com/38399357/118074000-66c78d00-b3ad-11eb-8bf9-67ec3792117f.png">
+<img width="566" alt="Screen Shot 2021-05-13 at 5 39 13 AM" src="https://user-images.githubusercontent.com/38399357/118074092-8eb6f080-b3ad-11eb-9ed2-22c5657d9f82.png">
+<img width="566" alt="Screen Shot 2021-05-13 at 5 39 34 AM" src="https://user-images.githubusercontent.com/38399357/118074121-9b3b4900-b3ad-11eb-8109-5b70748d6b1c.png">
+<img width="581" alt="Screen Shot 2021-05-13 at 5 40 07 AM" src="https://user-images.githubusercontent.com/38399357/118074163-aee6af80-b3ad-11eb-867c-78b0c52af67b.png">
+<img width="537" alt="Screen Shot 2021-05-13 at 5 40 49 AM" src="https://user-images.githubusercontent.com/38399357/118074217-c7ef6080-b3ad-11eb-9cf2-e6ddc1be3d74.png">
